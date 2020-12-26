@@ -1,4 +1,5 @@
 Javafx calculator with the possibility of multiple operations
+
 Technologies used:
     - Java 8
     - JavaFX
